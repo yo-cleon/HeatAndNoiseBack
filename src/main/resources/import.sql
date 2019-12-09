@@ -1,5 +1,3 @@
-insert into users (name, password, active) values ('admin', 'admin', true);
-
 insert into projects (name, description, create_at, active) values ('My Hous', 'Measures from my house','2019-08-13', true);
 insert into projects (name, description, create_at, active) values ('Baco Project', 'Measures from another places', '2019-08-15', false);
 insert into projects (name, description, create_at, active) values ('Restaurant Project', 'Measures from a restaurant', '2019-10-15', true);
